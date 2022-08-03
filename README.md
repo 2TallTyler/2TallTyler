@@ -8,7 +8,7 @@ If your game has trains or other transportation logistics, I'm your guy.
 
 #### 🖥️ I taught myself to code during Covid...
 - [Contributor](https://github.com/OpenTTD/OpenTTD/commits?author=2TallTyler) to [OpenTTD](https://store.steampowered.com/app/1536610/OpenTTD/), mostly to town growth, GUI improvements, and bugfixes. OpenTTD is written in C++ and maintained [on GitHub](https://github.com/OpenTTD/OpenTTD).
-- Mod developer for OpenTTD, mostly creating new [production chains](https://github.com/2TallTyler/improved_town_industries) and cargo economies, and a [town behavior overhaul](https://github.com/2TallTyler/itl_houses), although I've also created [real-world vehicle assets](https://github.com/2TallTyler/danish_trains) using voxel modeling and 2D sprite stacking in code. I use [NewGRF Meta Language](https://newgrf-specs.tt-wiki.net/wiki/NML:Main) to create mods.
+- Mod developer for OpenTTD, mostly creating new [production chains](https://github.com/2TallTyler/improved_town_industries) and [cargo economies](https://github.com/2TallTyler/blog/discussions/1), and a [town behavior overhaul](https://github.com/2TallTyler/itl_houses), although I've also created [real-world vehicle assets](https://github.com/2TallTyler/danish_trains) using voxel modeling and 2D sprite stacking in code. I use [NewGRF Meta Language](https://newgrf-specs.tt-wiki.net/wiki/NML:Main) to create mods.
 - Currently working on a real-world railroad dispatching system for my current employer (see below) using TypeScript/React/MobX
 
 #### 🎲 ...but game design is so much more than programming.
