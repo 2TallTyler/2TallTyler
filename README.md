@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-I'm a self-taught game developer looking for an entry-level job working on strategy games.
+I'm a self-taught programmer and game developer looking for an entry-level job in software development.
 
-If your game has trains or other transportation logistics, I'm your guy.
+If your company works with trains or other transportation logistics, I'm your guy.
 
 ---
 
